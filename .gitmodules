@@ -1,0 +1,8 @@
+[submodule "compiler"]
+	path = compiler
+	url = ../Ada-83-TLALOC-compiler.git
+	branch = main
+[submodule "targets/8bits"]
+	path = targets/8bits
+	url = ../Ada-83-TLALOC-8bits-targets.git
+	branch = main
